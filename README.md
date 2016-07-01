@@ -8,6 +8,7 @@ Just enjoy it.
 》》fule.py fuel.log port_number
 
 **fule.log**: named like `CL2PumpSrv.31`
+
 **port_number**: decimal format, like 1, 9, 10...
 
 ## Output

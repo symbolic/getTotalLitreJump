@@ -5,7 +5,7 @@ And this tool can fix this, let everything simple and easy.
 Just enjoy it.
 
 ## Usage
-**format:**  \***\>\> fule.py fuel.log port_number***
+**format: \>\> fule.py fuel.log port_number**
 
 **fule.log**: named like `CL2PumpSrv.31`
 
